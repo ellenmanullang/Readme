@@ -1,4 +1,4 @@
-Setup environment
+# Setup environment
 pip3
-Run steamlit app
+# Run steamlit app
 streamlit run .\dashboard.py
