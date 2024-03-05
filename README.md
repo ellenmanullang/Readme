@@ -1,4 +1,4 @@
 # Setup environment
-pip3
+pip install numpy
 # Run steamlit app
 streamlit run .\dashboard.py
